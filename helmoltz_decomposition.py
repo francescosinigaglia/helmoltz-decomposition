@@ -135,5 +135,5 @@ elif file_format == 'np_binary':
   
 else:
 
-    print('Error: file forat not found. Exiting')
+    print('Error: file format not found. Exiting')
     exit()
